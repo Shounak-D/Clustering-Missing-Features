@@ -1,5 +1,5 @@
 # Clustering-Missing-Features
-K-Means or HAC clustering with Missing Features using Feature Weighted Penalty based Dissimilarity measure
+K-Means or HAC clustering with Missing Features using Feature Weighted Penalty based Dissimilarity measure (CONTAINS ARTIFICIAL MISSINGNESS GENERATOR)
 
 LICENSE:
 
